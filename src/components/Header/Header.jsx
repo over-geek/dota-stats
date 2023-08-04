@@ -22,7 +22,7 @@ const Header = () => (
       </Link>
     </div>
     <div>
-      <h1 style={{ color: '#fff', fontSize: '1.2rem' }}>Dota Hero Stats</h1>
+      <h1 style={{ color: '#fff', fontSize: '1.2rem' }}>Dota Hero Character Stats</h1>
     </div>
     <div style={{
       display: 'flex',
