@@ -40,6 +40,8 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+- [🎥 Video Demo](#-video-demo-)
+- [🚀 Live Demo ](#-live-demo-)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -92,6 +94,20 @@ Dota Stats is a web app that allows the fan base of the DOTA game to search for 
 - **[Display heroes]**
 - **[Search for a particular hero]**
 - **[View hero stat]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Video Demo -->
+## 🎥 Video Demo <a name="live-demo"></a>
+
+[Video Link](https://www.loom.com/share/c433c48ac5454dbf9357abed231bd709?sid=43221730-4104-4f77-bdc4-686681eadde3)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Live Demo -->
+## 🚀 Live Demo <a name="live-demo"></a>
+
+[Dota Hero Stats](https://papaya-fox-72c1a4.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
