@@ -3,6 +3,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import Card from '../components/Card/Card';
 import Input from '../components/Input/Input';
 import { fetchStats } from '../redux/hero_stats';
+import './Home.css';
 
 const Home = () => {
   const { heroStats, loading } = useSelector((state) => state.heroStats);
@@ -17,15 +18,7 @@ const Home = () => {
   }
 
   return (
-    <div style={{
-      display: 'flex',
-      flexDirection: 'column',
-      alignItems: 'center',
-      padding: '0 30px',
-      marginTop: '100px',
-      marginBottom: '50px',
-    }}
-    >
+    <div className="heroes-section">
       <Input />
       <div className="heroes">
         {heroStats.map((stat) => (
@@ -34,7 +27,6 @@ const Home = () => {
             name={stat.localized_name}
             picks={stat.turbo_picks}
             image={stat.img}
-            // roles={stat.roles}
             details
           />
         ))}
