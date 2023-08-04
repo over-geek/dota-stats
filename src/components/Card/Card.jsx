@@ -1,6 +1,7 @@
 import React from 'react';
 import { PropTypes } from 'prop-types';
 import { Link } from 'react-router-dom';
+import './Card.css';
 
 const Card = ({
   name,
@@ -15,15 +16,7 @@ const Card = ({
     {details
       ? (
         <Link to={`/${name}`} style={{ textDecoration: 'none', color: '#fff' }}>
-          <div
-            style={{
-              width: '200px',
-              backgroundColor: '#ce3f75',
-              height: '250px',
-              borderRadius: '10px',
-            }}
-          >
-
+          <div className="hero-card">
             <img
               src={`https://api.opendota.com${image}`}
               alt="hero_name"
