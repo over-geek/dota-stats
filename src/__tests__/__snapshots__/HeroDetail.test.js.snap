@@ -1,0 +1,188 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders HeroDetail component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        style="margin-top: 100px;"
+      >
+        <div
+          style="width: 300px; background-color: rgb(206, 63, 117); height: 350px; border-radius: 10px; margin: 50px auto; color: rgb(255, 255, 255);"
+        >
+          <div>
+            <img
+              alt="hero_name"
+              src="https://api.opendota.comundefined"
+              style="width: 100%; border-top-right-radius: 10px; border-top-left-radius: 10px;"
+            />
+          </div>
+          <div
+            style="padding: 10px;"
+          >
+            <h3
+              style="color: rgb(255, 255, 255);"
+            />
+            <div
+              style="margin-top: 5px;"
+            >
+              <span
+                style="font-weight: 700;"
+              >
+                Attack Type: 
+              </span>
+              <span />
+            </div>
+            <div
+              style="margin-top: 5px;"
+            >
+              <span
+                style="font-weight: 700;"
+              >
+                Roles: 
+              </span>
+              <span />
+            </div>
+            <div
+              style="margin-top: 5px;"
+            >
+              <span
+                style="font-weight: 700;"
+              >
+                Turbo Picks: 
+              </span>
+              <span />
+            </div>
+            <div
+              style="margin-top: 5px;"
+            >
+              <span
+                style="font-weight: 700;"
+              >
+                Turbo wins: 
+              </span>
+              <span />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      style="margin-top: 100px;"
+    >
+      <div
+        style="width: 300px; background-color: rgb(206, 63, 117); height: 350px; border-radius: 10px; margin: 50px auto; color: rgb(255, 255, 255);"
+      >
+        <div>
+          <img
+            alt="hero_name"
+            src="https://api.opendota.comundefined"
+            style="width: 100%; border-top-right-radius: 10px; border-top-left-radius: 10px;"
+          />
+        </div>
+        <div
+          style="padding: 10px;"
+        >
+          <h3
+            style="color: rgb(255, 255, 255);"
+          />
+          <div
+            style="margin-top: 5px;"
+          >
+            <span
+              style="font-weight: 700;"
+            >
+              Attack Type: 
+            </span>
+            <span />
+          </div>
+          <div
+            style="margin-top: 5px;"
+          >
+            <span
+              style="font-weight: 700;"
+            >
+              Roles: 
+            </span>
+            <span />
+          </div>
+          <div
+            style="margin-top: 5px;"
+          >
+            <span
+              style="font-weight: 700;"
+            >
+              Turbo Picks: 
+            </span>
+            <span />
+          </div>
+          <div
+            style="margin-top: 5px;"
+          >
+            <span
+              style="font-weight: 700;"
+            >
+              Turbo wins: 
+            </span>
+            <span />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
